@@ -20,4 +20,18 @@ Melakukan db seeder pada database
 
 ## Karena Ada error pada apache web yang sudah siap untuk diupload tidak bisa diupload ##
 
+Hasil web melalui laravel biasa 
+
+halaman login web
+<img width="1440" alt="Screen Shot 2022-01-03 at 13 35 45" src="https://user-images.githubusercontent.com/60720642/147904710-560dc97b-aba7-42f9-8d1d-de8ce3ec66ce.png">
+
+
+
+Halaman beranda pada web
+<img width="1440" alt="Screen Shot 2022-01-03 at 13 36 02" src="https://user-images.githubusercontent.com/60720642/147904724-14214eda-aa00-49e2-b1f9-8e0001a7b6bb.png">
+
+
+
+
+
 
